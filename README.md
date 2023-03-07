@@ -3,6 +3,12 @@
 
 # CYBER TAKE OFF 2023 NOTES - JAVAD IBRAHIMLI
 
+A training made by THY Technology, which is prepared to provide training on cyber security to selected individuals and then recruit them. This program is divided into 3 main modules, each focusing on a specific GRC skill.
+
+- 50 Hours of IT and security fundamentals
+- 40 Hours of cyber defense basics
+- 60 hour Governance Risk and Compliance program
+
 
 In this repository, I will share the experience I gained in the courses I took in **CYBER TAKE OFF 2023** and the notes I took, day by day. 
 
